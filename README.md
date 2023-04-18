@@ -29,7 +29,7 @@ sudo ./run.sh
 ```
 После выполнения этих команд Visual Studio Code будет запущен с новой иконкой, указанной в файле `Code.icns`.
 
-Создание проекта: [Ваше имя или псевдоним]. Автоматическая поддержка: GPT-4 от OpenAI. <img align="right" width="30" height="30" src="./resouces/GPT4.svg">
+Создание проекта: [Ваше имя или псевдоним]. Автоматическая поддержка: GPT-4 от OpenAI. <img width="20" height="20" src="./resouces/GPT4.svg">
 
 ## Лицензия
 Этот проект доступен по лицензии [MIT License](./LICENSE).
