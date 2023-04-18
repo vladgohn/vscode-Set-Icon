@@ -27,7 +27,6 @@ cd vscode-Set-Icon
 После выполнения этих команд Visual Studio Code будет запущен с новой иконкой, указанной в файле `Code.icns`.
 
 Создание проекта: **Vlad Gohn**. Поддержка: GPT-4 от OpenAI. <img width="16" height="16" src="./resouces/GPT4.svg">
->>>>>>> eacd71d (update2)
 
 ## Лицензия
 Этот проект доступен по лицензии [MIT License](./LICENSE).
