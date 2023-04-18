@@ -16,11 +16,9 @@ git clone https://github.com/vladgohn/vscode-Set-Icon.git
 
 2. Перейдите в папку репозитория:
 
-<pre>
 ```bash
 cd vscode-Set-Icon
 ```
-</pre>
 
 3. Создайте и запустите скрипт `run.sh` с правами администратора:
 
