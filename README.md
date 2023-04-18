@@ -19,17 +19,15 @@ git clone https://github.com/vladgohn/vscode-Set-Icon.git
 ```bash
 cd vscode-Set-Icon
 ```
-3. Создайте и запустите скрипт `run.sh` с правами администратора:
+
+3. Выполните скрипт `run.sh` с правами администратора:
 ```bash
-echo '#!/bin/bash' > run.sh
-echo 'chmod +x change_vscode_icon.sh' >> run.sh
-echo './change_vscode_icon.sh' >> run.sh
-chmod +x run.sh
-sudo ./run.sh
+./run.sh
 ```
 После выполнения этих команд Visual Studio Code будет запущен с новой иконкой, указанной в файле `Code.icns`.
 
-Создание проекта: Создание проекта: **Vlad Gohn**. Поддержка: GPT-4 от OpenAI. <img width="20" height="20" src="./resouces/GPT4.svg">
+Создание проекта: **Vlad Gohn**. Поддержка: GPT-4 от OpenAI. <img width="16" height="16" src="./resouces/GPT4.svg">
+>>>>>>> eacd71d (update2)
 
 ## Лицензия
 Этот проект доступен по лицензии [MIT License](./LICENSE).
