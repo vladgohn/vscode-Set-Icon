@@ -1,5 +1,7 @@
 # vscode-Set-Icon
-![Иконка Visual Studio Code](./resouces/Code.png)
+<p align="center">
+  <img src="./resouces/Code.png" width="128" alt="Иконка Visual Studio Code">
+</p>
 
 # vscode-Set-Icon
 
