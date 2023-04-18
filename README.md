@@ -2,7 +2,7 @@
   <img src="./resouces/Code.png" width="128" alt="Иконка Visual Studio Code">
 </p>
 
-# vscode-Set-Icon
+# VScode-Set-Icon
 
 Этот проект содержит скрипт для установки кастомной иконки для Visual Studio Code на macOS. Иконка, используемая в этом проекте, представлена на изображении выше.
 
